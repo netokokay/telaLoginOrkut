@@ -1,0 +1,73 @@
+.logo {
+    max-width: 200px;
+}
+
+.rosa {
+    color: rgb(252, 43, 158);
+}
+
+.containerPai {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    justify-content: center;
+}
+
+.containerLogin {
+    border: 3px solid white;
+    padding: 30px;
+    width: 250px;
+    height: 300px;
+    background-color: rgb(210, 225, 252);
+}
+
+
+.containerLogo {
+    background-color: white;
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.inputs {
+    width: 200px;
+    min-width: 150px;
+}
+
+.containerInputs {
+    display: flex;
+    flex-direction: row;
+    display: inline;
+}
+
+.containerNotMember {
+    background-color: rgb(210, 225, 252);
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+}
+
+.containerRight {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.containerRodape{
+    background-color: rgb(148, 182, 247) ;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
